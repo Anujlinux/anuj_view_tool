@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-you know what to do...
+ © 2021 | Anuj Mohatkar Thank you for visiting me. 
 
 ## Development
 
