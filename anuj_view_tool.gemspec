@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Various view specific methods for application I use."
   spec.description   = "Provides various types of methods for html data for your web app"
-  spec.homepage      = "anuj.com"
+  spec.homepage      = "https://trello.com"
   spec.license       = "MIT"
   spec.required_ruby_version = ">= 2.5.0"
 
